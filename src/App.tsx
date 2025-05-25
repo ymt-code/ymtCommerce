@@ -3,7 +3,6 @@ import Home from "./pages/Home/Home";
 import Store from "./pages/Store/Store";
 import Layout from "./components/Layout";
 import Product from "./components/Product";
-import { useState } from "react";
 import About from "./pages/about/About";
 import Articles from "./pages/articles/Articles";
 
