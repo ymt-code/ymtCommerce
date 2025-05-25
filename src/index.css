@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: iransansdn;
+  font-style: normal;
+  font-weight: normal;
+  src:
+    url('assets/fonts/iransansdn.woff2') format('woff2'),
+    url('assets/fonts/iransansdn.woff') format('woff');
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  src:
+    url('../fonts/woff/iranyekanweblight.woff') format('woff'),
+    url('../fonts/woff2/iranyekanweblight.woff2') format('woff2'),
+
+}
+
+
+
+
+* {
+  font-family: iransansdn;
+}
+
+.yekan {
+  font-family: iranyekan;
+}

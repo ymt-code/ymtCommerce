@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "موبایل",
+      "title": "گلکسی S21 5G",
+      "description": "سامسونگ گلکسی S21 (مدل SM-G991B/DS) یکی از پرچمداران سال ۲۰۲۱ سامسونگ است که با تراشه Exynos 2100 (یا Snapdragon 888 در نسخه اسنپدراگون) عرضه می‌شود. نمایشگر ۶.۲ اینچ Dynamic AMOLED 2X با رزولوشن 2400×1080 و نرخ نوسازی تطبیقی ۱۲۰ هرتز دارد. دوربین سه‌گانه شامل حسگرهای ۱۲ مگاپیکسل (عریض)، ۶۴ مگاپیکسل (تله‌فوتو) و ۱۲ مگاپیکسل (فوق‌عریض) بوده و از زوم اپتیکال تا ۳ برابر پشتیبانی می‌کند. باتری ۴۰۰۰ میلی‌آمپر ساعت با شارژ سریع ۲۵ وات (سیمی) و ۱۵ وات (بی‌سیم) تکمیل‌کننده مشخصات آن است.",
+      "price": "32,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/7df1c5da63a81c881c36f9131fe7951b1bb09ca2_1656431591.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 2,
+      "category": "موبایل",
+      "title": "آیفون ۱۳ پرو",
+      "description": "آیفون ۱۳ پرو (مدل A2483) با تراشه Apple A15 Bionic و نمایشگر ۶.۱ اینچ Super Retina XDR با نرخ نوسازی ۱۲۰ هرتز (ProMotion) عرضه شد. سه دوربین ۱۲ مگاپیکسلی (عریض، تله‌فوتو، فوق‌عریض) دارد که امکان فیلم‌برداری ProRes و ثبت عکس در حالت Night Mode را برای هر سه سنسور فراهم کرده است. بدنه از جنس استیل ضدزنگ و شیشه Ceramic Shield بوده و حافظه پایه از ۱۲۸ گیگابایت تا ۱ ترابایت قابل انتخاب است. باتری آن تا ۲۲ ساعت پخش ویدئو را پشتیبانی می‌کند.",
+      "price": "45,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/c9aaa21bb99826ffb34daec6b9e1b2ea7c10160a_1727606767.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 3,
+      "category": "موبایل",
+      "title": "شیائومی می ۱۱",
+      "description": "شیائومی می ۱۱ با تراشه Snapdragon 888 و نمایشگر ۶.۸۱ اینچ AMOLED با وضوح WQHD+ و پشتیبانی از HDR10+ همراه است. دوربین اصلی ۱۰۸ مگاپیکسل داشته و در کنار آن دوربین فوق‌عریض ۱۳ مگاپیکسل و ماکرو ۵ مگاپیکسل قرار گرفته است. باتری ۴۶۰۰ میلی‌آمپر ساعت با شارژ سریع ۵۵ وات (سیمی) و ۵۰ وات (بی‌سیم) از دیگر ویژگی‌های برجسته این مدل هستند. رابط کاربری MIUI 12 روی اندروید ۱۱ اجرا می‌شود.",
+      "price": "28,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/0f344198845bdae48f13c8339f1ad23d6fe07417_1686740713.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 4,
+      "category": "موبایل",
+      "title": "هوآوی P40 پرو",
+      "description": "هوآوی پی ۴۰ پرو با تراشه Kirin 990 5G، نمایشگر ۶.۵۷ اینچ OLED با نرخ نوسازی ۹۰ هرتز و رزولوشن 2640×1200 عرضه شد. دوربین چهارگانه شامل حسگر ۵۰ مگاپیکسل (اصلی)، ۴۰ مگاپیکسل (فوق‌عریض)، ۱۲ مگاپیکسل (تله‌فوتو) و سنسور ToF برای تشخیص عمق است که تصاویر بسیار باکیفیتی در شرایط نوری مختلف ثبت می‌کند. باتری ۴۲۰۰ میلی‌آمپر ساعت با شارژ سریع ۶۶ وات (سیمی) و ۴۰ وات (بی‌سیم) از ویژگی‌های اصلی این مدل هستند.",
+      "price": "34,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/71331726a379c57ce7065ceac42e79f12e13d3c9_1599902317.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 5,
+      "category": "موبایل",
+      "title": "وان‌پلاس ۹ پرو",
+      "description": "وان‌پلاس ۹ پرو با تراشه Snapdragon 888 و نمایشگر ۶.۷۵ اینچ Fluid AMOLED با نرخ نوسازی ۱۲۰ هرتز و وضوح 3216×1440 عرضه شد. دوربین چهارگانه با همکاری Hasselblad شامل حسگر اصلی ۴۸ مگاپیکسل، فوق‌عریض ۵۰ مگاپیکسل، تله‌فوتو ۸ مگاپیکسل و مونوکروم ۲ مگاپیکسل است که عملکرد بسیار خوبی در نور کم و عکاسی پرتره دارد. باتری ۴۵۰۰ میلی‌آمپر ساعت با شارژ سریع سیمی ۶۵ وات و شارژ بی‌سیم ۵۰ وات از دیگر قابلیت‌های کلیدی این مدل هستند.",
+      "price": "31,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/f4369d33b85bab0455e7102fc9dc549cf23be976_1640611872.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 6,
+      "category": "موبایل",
+      "title": "نوکیا G20",
+      "description": "نوکیا G20 با تراشه Mediatek Helio G35 و نمایشگر ۶.۵۳ اینچ HD+ با نرخ نوسازی ۶۰ هرتز عرضه می‌شود. باتری حجیم ۵۰۵۰ میلی‌آمپر ساعت دارد و از نظر نرم‌افزاری تقریباً خالص اندروید ۱۱ را اجرا می‌کند. دوربین چهارگانه شامل حسگر ۴۸ مگاپیکسل (اصلی)، ۵ مگاپیکسل (فوق‌عریض)، ۲ مگاپیکسل (ماکرو) و ۲ مگاپیکسل (عمق) است. حافظه داخلی ۶۴ گیگابایت و رم ۴ یا ۶ گیگابایت برای این مدل در نظر گرفته شده است.",
+      "price": "6,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/6312602e6927f1c209aeac4ac721b1e7d0e92bcc_1656425488.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 7,
+      "category": "موبایل",
+      "title": "ریلمی ۸ پرو",
+      "description": "ریلمی ۸ پرو با تراشه Snapdragon 720G و نمایشگر ۶.۴۵ اینچ Super AMOLED با رزولوشن 2400×1080 و نرخ نوسازی ۶۰ هرتز عرضه شد. دوربین اصلی ۱۰۸ مگاپیکسل به همراه دوربین فوق‌عریض ۸ مگاپیکسل، ماکرو ۲ مگاپیکسل و سنسور عمق ۲ مگاپیکسل دارد که برای عکاسی روزمره مناسب است. باتری ۴۵۰۰ میلی‌آمپر ساعت با شارژ سریع ۵۰ وات (سیمی) از ویژگی‌های برجسته این گوشی میان‌رده است.",
+      "price": "7,500,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/0a309b55b6a1a6298585cfe3b08df6d71918d58c_1661320137.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 8,
+      "category": "موبایل",
+      "title": "HTC U20 Ultra",
+      "description": "اچ‌تی‌سی U20 Ultra با تراشه Snapdragon 765G و نمایشگر ۶.۸ اینچ LCD Full HD+ عرضه شد. دوربین چهارگانه شامل حسگر ۴۸ مگاپیکسل (اصلی)، ۸ مگاپیکسل (فوق‌عریض)، ۲ مگاپیکسل (ماکرو) و ۲ مگاپیکسل (عمق) است. باتری حجیم ۵۰۰۰ میلی‌آمپر ساعت با شارژ سریع ۱۸ وات و شارژ بی‌سیم ۱۵ وات از دیگر ویژگی‌های شاخص این مدل است. رابط کاربری HTC Sense بر پایه اندروید ۱۰ روی این دستگاه نصب می‌شود.",
+      "price": "9,000,000",
+      "image_page": "https://www.digikala.com/mag/wp-content/uploads/2020/06/Desire-20-Pro-1.jpg"
+    },
+    {
+      "id": 9,
+      "category": "موبایل",
+      "title": "ال‌جی Velvet",
+      "description": "ال‌جی Velvet با تراشه Snapdragon 765G و نمایشگر P-OLED ۶.۸ اینچ با رزولوشن 2460×1080 و نرخ نوسازی ۶۰ هرتز عرضه شد. دوربین سه‌گانه شامل حسگر ۴۸ مگاپیکسل (اصلی)، ۸ مگاپیکسل (فوق‌عریض) و ۵ مگاپیکسل (ماکرو) است. باتری ۴۳۰۰ میلی‌آمپر ساعت همراه با شارژ سریع ۲۵ وات (سیمی) و شارژ بی‌سیم ۹ وات از قابلیت‌های اصلی این گوشی میان‌رده به بالا محسوب می‌شود.",
+      "price": "16,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/9d51bdb2239a97a54e6304008bfd1d0d844dc85e_1594114645.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 10,
+      "category": "موبایل",
+      "title": "اکسپریا ۵ II",
+      "description": "سونی اکسپریا ۵ II با تراشه Snapdragon 865 و نمایشگر ۶.۱ اینچ OLED با رزولوشن 2520×1080 و نرخ نوسازی ۱۲۰ هرتز عرضه شد. دوربین سه‌گانه شامل سه حسگر ۱۲ مگاپیکسل (عریض، تله‌فوتو، فوق‌عریض) بوده و توانایی ضبط ویدئو 4K با نرخ ۶۰ فریم بر ثانیه را دارد. باتری ۴۰۰۰ میلی‌آمپر ساعت با شارژ سریع ۲۱ وات و پشتیبانی از شارژ بی‌سیم از دیگر مشخصات قابل توجه این گوشی حرفه‌ای است.",
+      "price": "33,000,000",
+      "image_page": "https://www.digikala.com/mag/wp-content/uploads/2020/09/Xperia-5-II-02.jpg"
+    },
+    {
+      "id": 11,
+      "category": "لپ‌تاپ",
+      "title": "دل XPS 13",
+      "description": "لپ‌تاپ دل XPS 13 مدل 9300 با نمایشگر ۱۳.۴ اینچ InfinityEdge و رزولوشن 3840×2400 (UHD+) عرضه شد. پردازنده Intel Core i7-1165G7 همراه با 16 گیگابایت رم LPDDR4x و 512 گیگابایت SSD PCIe NVMe در آن تعبیه شده است. بدنه از آلیاژ آلومینیوم سری ۶۰۰۰ ساخته شده و کیبورد با نور پس‌زمینه دارد. باتری ۵۲ وات‌ساعتی تا ۱۰ ساعت وب‌گردی را پشتیبانی کرده و قابلیت شارژ سریع نیز فراهم است.",
+      "price": "62,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/c1f5860938d7dc087df2dddc1dccf07aa63f1d02_1694265753.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 12,
+      "category": "لپ‌تاپ",
+      "title": "مک‌بوک پرو ۱۴ (M1 Pro)",
+      "description": "مک‌بوک پرو ۱۴ اینچ اپل با چیپ M1 Pro (۸ هسته CPU و ۱۴ هسته GPU) یا M1 Max (۱۰ هسته CPU و ۳۲ هسته GPU) عرضه می‌شود. نمایشگر Liquid Retina XDR با رزولوشن 3024×1964 و نرخ نوسازی ۱۲۰ هرتز، کیفیت تصویر بسیار بالایی ارائه می‌دهد. حافظه رم از 16 گیگابایت unified تا 64 گیگابایت قابل افزایش و حافظه داخلی از 512 گیگابایت تا ۸ ترابایت SSD در دسترس است. باتری تا ۱۱ ساعت وب‌گردی و ویرایش ویدئو را پشتیبانی کرده و شامل پورت‌های HDMI، کارت‌خوان SDXC و سه پورت Thunderbolt 4 است.",
+      "price": "125,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/c0238c1d2491297411616a5324d47f5bd5ec34d7_1746262597.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 13,
+      "category": "لپ‌تاپ",
+      "title": "لنوو تینک‌پد X1 Carbon",
+      "description": "لنوو تینک‌پد X1 Carbon نسل ۹ با نمایشگر ۱۴ اینچ FHD (1920×1080) یا UHD (3840×2160)، پردازنده Intel Core i7-1260P، 16 گیگابایت رم LPDDR5 و 1 ترابایت SSD NVMe عرضه می‌شود. بدنه تماماً از فیبر کربن و آلیاژ منیزیم ساخته شده و کیبورد معروف ThinkPad با نور پس‌زمینه دارد. باتری تا ۱۵ ساعت کار مداوم را پشتیبانی کرده و فناوری Rapid Charge در ۶۰ دقیقه تا ۸۰ درصد شارژ می‌کند.",
+      "price": "98,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/4becab38056115807a11afd5ba9e6d2cf07a78aa_1673766215.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 14,
+      "category": "لپ‌تاپ",
+      "title": "ایسر اسپایر ۵ A515-56",
+      "description": "ایسر اسپایر ۵ مدل A515-56 با نمایشگر ۱۵.۶ اینچ FHD (1920×1080)، پردازنده Intel Core i5-1135G7، 8 گیگابایت رم DDR4 و 256 گیگابایت SSD NVMe عرضه می‌شود. کارت گرافیک Intel Iris Xe امکان اجرای بازی‌های سبک و کارهای گرافیکی را فراهم می‌کند. باتری ۴۹ وات‌ساعتی تا ۱۰ ساعت استفاده روزمره را پشتیبانی می‌کند و وزن حدود ۱.۶ کیلوگرم دارد.",
+      "price": "32,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/3503fb259815a03087506d834c938442843eeb68_1689676962.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 15,
+      "category": "لپ‌تاپ",
+      "title": "اچ‌پی ENVY 13",
+      "description": "اچ‌پی ENVY 13 مدل AY0001 با نمایشگر ۱۳.۳ اینچ FHD لمسی، پردازنده Intel Core i7-1260P، 16 گیگابایت رم LPDDR5 و 512 گیگابایت SSD NVMe عرضه می‌شود. بدنه آلومینیومی باریک با ضخامت زیر ۱۵ میلی‌متر و وزن حدود 1.3 کیلوگرم ساخته شده است. قلم HP MPP 2.0 همراه با آن ارائه می‌شود و باتری ۵۰ وات‌ساعتی تا ۱۲ ساعت وب‌گردی را پشتیبانی می‌کند.",
+      "price": "58,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/01d6944b6bc7a113f35b9e7e33ddd4ce14fa41aa_1674286017.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 16,
+      "category": "لپ‌تاپ",
+      "title": "اچ‌پی Spectre x360 14",
+      "description": "اچ‌پی Spectre x360 نسخه ۱۴ اینچ با نمایشگر ۲K لمسی (3000×2000) و نسبت تصویر 3:2 عرضه شده است. پردازنده Intel Core i7-1360P، 16 گیگابایت رم LPDDR5 و 1 ترابایت SSD PCIe 4.0 از مشخصات سخت‌افزاری این مدل هستند. بدنه از آلومینیوم یکپارچه CNC-machined ساخته شده و لولای ۳۶۰ درجه امکان تبدیل به حالت تبلت را فراهم می‌کند. باتری ۶۰ وات‌ساعتی تا ۱۰ ساعت کار واقعی را پشتیبانی می‌کند.",
+      "price": "105,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/089ac048fdb4617300227f4f9be61c1be50c37e8_1739353037.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 17,
+      "category": "لپ‌تاپ",
+      "title": "ایسوس ذن‌بوک ۱۴ OLED",
+      "description": "ایسوس ذن‌بوک ۱۴ مدل UX3402ZA با نمایشگر ۱۴ اینچ OLED (2880×1800) و پوشش 100٪ DCI-P3 عرضه می‌شود. تراشه AMD Ryzen 9 5900HX، 16 گیگابایت رم LPDDR4X و 1 ترابایت SSD PCIe 3.0 از مشخصات اصلی این مدل هستند. بدنه باریک فلزی با ضخامت زیر ۱۵ میلی‌متر و وزن حدود 1.2 کیلوگرم ساخته شده است. باتری ۷۰ وات‌ساعتی تا ۱۲ ساعت پخش ویدئو را پشتیبانی می‌کند.",
+      "price": "85,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/7e0daca077e063e80f2604d53038b2eea204feae_1727281451.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 18,
+      "category": "لپ‌تاپ",
+      "title": "ام‌اس‌آی GF63 Thin",
+      "description": "ام‌اس‌آی GF63 Thin مدل 10UE با پردازنده Intel Core i5-10300H، 8 گیگابایت رم DDR4، کارت گرافیک NVIDIA GeForce GTX 1650 و 256 گیگابایت SSD NVMe عرضه می‌شود. نمایشگر ۱۵.۶ اینچ FHD با نرخ نوسازی ۱۴۴ هرتز و بدنه باریک فلزی از ویژگی‌های کلیدی آن است. باتری ۵۱ وات‌ساعتی تا ۵ ساعت استفاده عادی (غیرگیمینگ) را پشتیبانی می‌کند.",
+      "price": "49,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/50d2363b22a4ec2247bf11956685c87d3b973483_1663502776.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 19,
+      "category": "لپ‌تاپ",
+      "title": "ایسر Predator Helios 300",
+      "description": "ایسر Predator Helios 300 مدل PH315-53 با پردازنده Intel Core i7-11800H، 16 گیگابایت رم DDR4، کارت گرافیک NVIDIA GeForce RTX 3060 و 1 ترابایت SSD NVMe عرضه می‌شود. نمایشگر ۱۵.۶ اینچ FHD با نرخ نوسازی ۱۶۵ هرتز و پنل IPS با زاویه دید گسترده برای بازی حرفه‌ای طراحی شده است. سیستم خنک‌کننده AeroBlade 3D با فن‌های فلزی و هیت‌پایپ‌های اضافی، دمای CPU و GPU را در بار سنگین کنترل می‌کند.",
+      "price": "88,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/1bc3fcf25731952555c5832af569b1b7d980761f_1671465016.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 20,
+      "category": "لپ‌تاپ",
+      "title": "دل G5 15 Gaming",
+      "description": "دل G5 15 Gaming مدل 5505 با پردازنده Intel Core i5-11400H، 8 گیگابایت رم DDR4، کارت گرافیک NVIDIA GeForce GTX 1650 Ti و 512 گیگابایت SSD NVMe برای گیمرهای نیمه‌حرفه‌ای طراحی شده است. نمایشگر ۱۵.۶ اینچ FHD با نرخ نوسازی ۱۲۰ هرتز و پنل IPS رنگ‌های زنده و زاویه دید گسترده ارائه می‌دهد. بدنه مات و خنک‌کننده ویژه با مجرای هوای اختصاصی تا حد زیادی از داغ شدن سیستم جلوگیری می‌کند.",
+      "price": "53,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/292482ef1d81ea8821bf6661ce0f8fb6f8094373_1672076186.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 21,
+      "category": "لوازم جانبی",
+      "title": "ایرپاد پرو",
+      "description": "اپل ایرپاد پرو نسل اول با قابلیت حذف نویز فعال (ANC) و حالت Transparency برای شنیدن صدای محیط عرضه شد. کیس شارژ آن از نوع MagSafe بوده و امکان شارژ بی‌سیم Qi را می‌دهد. در داخل گوشی سه سایز سری سیلیکونی قرار دارد که با حالت Adaptive EQ صدا را براساس شکل گوش کاربر تنظیم می‌کند. عملکرد فوق‌العاده در مکالمه و شنیدن موسیقی از نکات مثبت این محصول است.",
+      "price": "8,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/0d022d11cb7b5b1544a7132df4e9dfe9354ac195_1745825005.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 22,
+      "category": "لوازم جانبی",
+      "title": "سامسونگ EP-P5200",
+      "description": "شارژر سریع بی‌سیم سامسونگ مدل EP-P5200 با توان خروجی تا ۱۵ وات برای گوشی‌های سازگار با استاندارد Qi عرضه می‌شود. طراحی دایره‌ای و زاویه‌دار آن امکان شارژ راحت به‌صورت عمودی یا افقی را فراهم می‌کند. از فناوری Fast Wireless Charging 2.0 پشتیبانی کرده و دارای چراغ LED برای نمایش وضعیت شارژ است.",
+      "price": "2,000,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/8a004e2ecda284e56195142ce1942306c200a6d1_1634825502.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 23,
+      "category": "لوازم جانبی",
+      "title": "کیف لپ‌تاپ ایسوس TUF",
+      "description": "کیف لپ‌تاپ ایسوس مدل TUF Gaming برای لپ‌تاپ‌های تا ۱۵.۶ اینچ طراحی شده و از جنس نایلون مقاوم در برابر آب ساخته می‌شود. داخل کیف چندین جیب و جداکننده برای شارژر، ماوس و لوازم جانبی دارد. بند شانه‌ای و دسته بالای کیف با پد نرم کاربری طولانی‌مدت را راحت می‌کند. در جلوی کیف نیز یک جیب زیپی برای نگهداری اقلام کوچک تعبیه شده است.",
+      "price": "1,200,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/fab991b695351ea0ee8564691a2de7af1e22ca2c_1652548179.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 24,
+      "category": "لوازم جانبی",
+      "title": "موس لاجیتک M100",
+      "description": "موس سیمی لاجیتک مدل M100 با اتصال USB و دقت ۱۰۰۰ DPI مناسب کاربری اداری و روزمره است. طراحی ارگونومیک و وزن سبک باعث می‌شود در استفاده‌های طولانی‌مدت دچار خستگی نشوید. دو کلید اصلی و یک کلید اسکرول برای ناوبری راحت در مرورگر و اسناد وجود دارد. سازگاری قوی با اغلب سیستم‌های عامل ویندوز، مک و لینوکس از دیگر ویژگی‌های مثبت این موس است.",
+      "price": "500,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/117542529.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 25,
+      "category": "لوازم جانبی",
+      "title": "کابل USB-C به لایتنینگ",
+      "description": "کابل اورجینال اپل USB-C به لایتنینگ به طول ۱ متر برای شارژ سریع و انتقال داده بین آیفون/آیپد و مک بوک یا شارژرهای USB-C طراحی شده است. از استاندارد USB 2.0 پشتیبانی کرده و برای شارژ آیفون ۸ به بالا با شارژر ۱۸ وات یا بیشتر تا ۵۰٪ در حدود ۳۰ دقیقه شارژ می‌کند. کیفیت ساخت بالا و دوام در برابر پیچ‌خوردن و کشش از مزایای این کابل است.",
+      "price": "600,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/121071184.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 26,
+      "category": "لوازم جانبی",
+      "title": "هارد اکسترنال سیگیت 1TB",
+      "description": "هارد اکسترنال سیگیت Expansion Portable با ظرفیت ۱ ترابایت و رابط USB 3.0 عرضه شده است. سرعت خواندن و نوشتن مناسبی برای بک‌آپ‌گیری و انتقال فایل‌های حجیم دارد. بدنه از جنس پلاستیک مقاوم بوده و بدون نیاز به منبع تغذیه خارجی کار می‌کند. وزن سبک و ابعاد جمع‌وجور آن امکان حمل آسان را فراهم می‌کند.",
+      "price": "3,500,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/9354.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 27,
+      "category": "لوازم جانبی",
+      "title": "کول‌پد تسکو TCLP 3015",
+      "description": "کول‌پد تسکو مدل TCLP 3015 برای لپ‌تاپ‌های تا ۱۷ اینچ طراحی شده است. دارای دو فن بزرگ و سطح مشبک فلزی است تا جریان هوای مؤثری برای خنک‌سازی زیر لپ‌تاپ فراهم کند. ارتفاع آن در سه حالت قابل تنظیم بوده و با کابل USB تغذیه می‌شود. نورپردازی LED آبی در اطراف فن‌ها جلوه زیبایی به میز کار اضافه می‌کند.",
+      "price": "900,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/a5872d40f7a8c8b0f9fdf55e7593341fa92e6c8f_1659601096.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 28,
+      "category": "لوازم جانبی",
+      "title": "رم میکرو SD کینگستون 64GB",
+      "description": "رم میکرو SD کینگستون با ظرفیت ۶۴ گیگابایت، کلاس ۱۰ و سرعت خواندن تا ۱۰۰ مگابایت بر ثانیه مناسب گوشی‌های هوشمند، تبلت و دوربین‌های اکشن است. از استاندارد UHS-I پشتیبانی کرده و در برابر آب، ضربه، دما و اشعه X مقاوم طراحی شده است. همراه با آداپتور SD برای استفاده در کارت‌خوان‌های SD عرضه می‌شود.",
+      "price": "700,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/110898872.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 29,
+      "category": "لوازم جانبی",
+      "title": "هدفون گیمینگ روگستر PS5",
+      "description": "هدفون گیمینگ روگستر مخصوص PS5 با صدای فراگیر 7.1 دالبی و میکروفون بازشونده عرضه شده است. پدهای نرم و لمسی روی گوشی راحتی در استفاده طولانی‌مدت را فراهم می‌کنند و اتصال از طریق جک ۳.۵ میلی‌متری یا USB امکان استفاده روی PS5، PS4 و سایر دستگاه‌های سازگار را می‌دهد. کلیدهای کنترلی روی گوشی برای قطع صدا و تنظیم حجم تعبیه شده‌اند.",
+      "price": "2,500,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/2d57291a26abec3a6027c72a810c61c67980ff80_1635926522.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    },
+    {
+      "id": 30,
+      "category": "لوازم جانبی",
+      "title": "مبدل HDMI به VGA UCM-007",
+      "description": "مبدل HDMI به VGA برند یوسی‌میل مدل UCM-007 برای انتقال تصویر از لپ‌تاپ یا کنسول‌های دارای خروجی HDMI به مانیتور یا پروژکتور قدیمی با ورودی VGA طراحی شده است. این مبدل از رزولوشن تا 1080p پشتیبانی کرده و به‌صورت Plug & Play (بدون نیاز به درایور) کار می‌کند. بدنه از آلومینیوم و پلاستیک مقاوم ساخته شده تا در برابر فشار و حرارت پایدار بماند.",
+      "price": "800,000",
+      "image_page": "https://dkstatics-public.digikala.com/digikala-products/0558e50829c0829f770b8381957c44136a02d676_1643453414.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+    }
+  ]
+}
