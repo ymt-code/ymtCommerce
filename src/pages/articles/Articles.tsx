@@ -1,4 +1,3 @@
-import React from "react";
 import Container from "../../components/Container";
 import ArticleCard from "../../components/ArticleCard";
 import { articles } from "../../utils/content";

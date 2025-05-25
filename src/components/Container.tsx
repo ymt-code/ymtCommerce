@@ -1,5 +1,3 @@
-import type React from "react";
-
 interface IContainer {
   children: React.ReactNode;
   className?: string;

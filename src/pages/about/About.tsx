@@ -1,4 +1,3 @@
-import React from "react";
 import Container from "../../components/Container";
 import aboutIMG from "../../assets/images/pexels-maxfrancis-2246476.jpg";
 import WhyUs from "../../components/WhyUs";
@@ -6,7 +5,6 @@ import WhyUs from "../../components/WhyUs";
 const About = () => {
   return (
     <div className="bg-white text-gray-800">
-      {/* هدر تصویری با متن روی عکس */}
       <div className="relative w-full h-[400px] overflow-hidden">
         <img
           src={aboutIMG}
@@ -20,7 +18,6 @@ const About = () => {
         </div>
       </div>
 
-      {/* متن درباره ما */}
       <Container>
         <div className="mt-12 max-w-4xl bg-white rounded-2xl p-6 md:p-10 text-justify leading-8 text-lg md:text-xl tracking-wide mx-3 md:mx-auto ">
           <p className="mb-6 text-gray-700">
@@ -43,10 +40,8 @@ const About = () => {
         </div>
       </Container>
 
-      {/* چرا ما؟ */}
       <WhyUs />
 
-      {/* سیستم همکاری در فروش */}
       <Container>
         <div className="mt-12 max-w-4xl bg-white rounded-2xl  p-6 md:p-10 text-justify leading-8 text-lg md:text-xl tracking-wide mx-3 md:mx-auto  ">
           <p className="mb-6 text-gray-700">

@@ -1,4 +1,10 @@
-const ArticleCard = ({ image, title, summary, category }) => {
+interface IArticleCard {
+  image: string;
+  title: string;
+  summary: string;
+  category: string;
+}
+const ArticleCard = ({ image, title, summary, category }: IArticleCard) => {
   return (
     <div className="bg-white shadow-lg rounded-2xl overflow-hidden transition-transform hover:scale-[1.03] hover:shadow-xl duration-300 border border-gray-200 m-3">
       <div className="flex justify-center items-center p-4 h-[200px] bg-gray-50">
